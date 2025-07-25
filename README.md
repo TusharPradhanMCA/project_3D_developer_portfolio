@@ -145,11 +145,11 @@ import {
   figma,
   docker,
   meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
+  orufy,
+  jecrc,
+  subodh,
+  wager,
+  URLShortner,
   tripguide,
   threejs,
 } from "../assets";
@@ -246,8 +246,8 @@ const technologies = [
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    company_name: "orufy",
+    icon: orufy,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
@@ -259,8 +259,8 @@ const experiences = [
   },
   {
     title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    company_name: "jecrc",
+    icon: jecrc,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
@@ -272,8 +272,8 @@ const experiences = [
   },
   {
     title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    company_name: "subodh",
+    icon: subodh,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
@@ -344,7 +344,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: wager,
     source_code_link: "https://github.com/",
   },
   {
@@ -365,7 +365,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: URLShortner,
     source_code_link: "https://github.com/",
   },
   {

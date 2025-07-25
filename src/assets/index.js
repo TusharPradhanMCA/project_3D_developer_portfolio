@@ -22,12 +22,12 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import subodh from "./company/subodh.png";
+import orufy from "./company/orufy.png";
+import jecrc from "./company/jecrc.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
+import wager from "./wager.png";
+import URLShortner from "./URLShortner.png";
 import tripguide from "./tripguide.png";
 
 export {
@@ -53,10 +53,10 @@ export {
   typescript,
   threejs,
   meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
+  subodh,
+  orufy,
+  jecrc,
+  wager,
+  URLShortner,
   tripguide,
 };
